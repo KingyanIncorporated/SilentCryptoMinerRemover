@@ -33,6 +33,7 @@ Anyways, have fun, this took way too long to make because troubleshooting c++ is
 
 
 Screenshots:
+
 ![Capture2](https://user-images.githubusercontent.com/110684896/183122194-63fe7fed-e779-4dfa-9d4e-5fa7baf5e536.PNG)
 
 explorer.exe is the miner process in that example. As you can see it consumes abnormally high amounts of cpu power for XMR mining
