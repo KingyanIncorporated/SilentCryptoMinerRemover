@@ -12,7 +12,7 @@ How does it work?
 
 What are this program's shortcomings?
 -The program doesn't detect the miner, it presents the user with suspicious executables and its up to the user to decide which one it is, the user has to be sure there is a miner on his computer, else they might remove a legitimate program.
--The program is only effective against Unam Sanctam's miners and though they are popular now this might change later.
+-The program is only effective against @UnamSanctam 's miners and though they are popular now this might change later.
 
 Anyways, have fun, this took way too long to make because troubleshooting c++ is always pain.
 
