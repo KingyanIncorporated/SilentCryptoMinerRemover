@@ -16,5 +16,15 @@ What are this program's shortcomings?
 
 Anyways, have fun, this took way too long to make because troubleshooting c++ is always pain.
 
+Screenshots:
+![Capture2](https://user-images.githubusercontent.com/110684896/183122194-63fe7fed-e779-4dfa-9d4e-5fa7baf5e536.PNG)
+explorer.exe is the miner process in that example. As you can see it consumes abnormally high amounts of cpu power for XMR mining
+
+![Capture5](https://user-images.githubusercontent.com/110684896/183122406-0d02b2a9-a139-4cab-886e-6abcb16e3b0a.PNG)
+The miner creates a new registry key to boot on startup, in this example it is hidden as the Google Chrome updater
+
+![Capture6](https://user-images.githubusercontent.com/110684896/183122657-9ac263ea-c948-4fe7-a88d-5a79e6261b14.PNG)
+Screenshot of the remover's start up screen
+
 Fuel my caffein addiction:
 XMR: 49Jv6e96ZyiA1HKcZ6y3pf7XPdsqF77ph1GSzbgaBSd71FwfiwsBeQTNqh2DHzifvz4ZyVZXCFNVVNq6mETLPiV5FXAw3Kb
