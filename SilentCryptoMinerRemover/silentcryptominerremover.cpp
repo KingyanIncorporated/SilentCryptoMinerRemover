@@ -306,7 +306,7 @@ void RemoveMiner(HKEY hKey)
                     cout << "regkey value deleted" << endl;
 
                     //give shutdown privilege and reboot computer
-                    HANDLE ShutdownToken;
+                    HANDLE ShutdownToken{};
                     if (OpenProcessToken(GetCurrentProcess(), TOKEN_ADJUST_PRIVILEGES | TOKEN_QUERY, &ProcessToken)) {
                         SetPrivilege(ShutdownToken, SE_SHUTDOWN_NAME, TRUE);
                         BOOL Shutdown = InitiateSystemShutdownEx(NULL, NULL, 0, TRUE, TRUE, SHTDN_REASON_MINOR_SECURITY);
